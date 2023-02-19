@@ -1,0 +1,459 @@
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "7d27b7b1e0803f052fe39c3f4b22be5e29ad7b54"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QGRAF.download]]
+    sha256 = "959ae54acb856663fb668eedd3b8ad43d54cc4bee1717861b456a329cc07a689"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "6064dc0a4073f2d771105b7cf07cd81f0fa1b08a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "a7321f8499587e902da2ee51b25185986041ad5423ca4650099eade45c178b95"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "6ca3c516a5d45b0860040a1d5bab82cf6f2bc35b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "4e91630720b94589f07fdfac99fa183749f036161aad117d7fd4c5a445ad594e"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "9c7e9a563903675ee87e40c5a98aeddc91a0a2ae"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "0a4ed7c239111710fa012d8c8605717df4db3a618f25ede685161490aab54d23"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "1afc72301878d5742a1a088b1d78cad1e4124392"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "d941f7851faaf580dca9ee4cc6ae5973bd77df1d71f1f135bfb23433a94d8638"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-musl-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "ec71ae56a78d36fd4ff968252cd359b5838433b9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "dff349d15f3a713a7264af46b1c0ea81dfcc698d83a8f1fcf5e6a26ad07dcef7"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-musl-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "aarch64"
+git-tree-sha1 = "8591e61b3b824298e1cf370ed5af8728fed3d251"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "590c4912baa1ed1a634685e8a7efc6d4b41e8fe97626dc79a8f5b3966cb323b9"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.aarch64-linux-musl-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3cfd48790b0b789bf1eb27616e85eaddfeb975ae"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "68399a2beef872c63cb7280b47fefc099956b361555ca10e8d47dab41fc6a102"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c2d5eab0f2bbd846e2f2713083cf3a4364cb2851"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "772f6e29c8de7e5f9547c1711f6ac7e7d8787bbbfaadf104f4077bb209f12b10"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5d3ca6827064d124fbf83c6db7d999112df2aeb8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "358fb739ed7fa3fc83e166f671604a535716a0aed46c21763f7aaabf5a14d821"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b9466caad26d3f40e0b6d8c718c1c8638a806d0e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "3e2e8052cac422a1e1e4f8e0117a9fc26737b19128b99261fdd26c30054d2946"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a34a2e325d26c145409593fd276c4ae9d5522856"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "4548edeb92f99658f6f7d72f01bf468fdb2beb451e263797f7b46392ab9751a4"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3ec646fad1b0a30155913df141d353c49d770099"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "1e1ea1608fbdbd05a9ced468c567f2ef3830fccbcb758adef167bd6260d4f610"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "efdad7fa38fcd41d5d5e834f47b0035e41c9a71b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "8d72ec5de0c2f79421091bd86527757b90d142b043130bff9361c176b36bcd5b"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "73209ad641d4a644a851d783760828147950764b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "e93ae53585b3f438263bc87197889ae359ab324c282969c93860ec6ef1f3d3d6"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8ec9aef394e52d402a88f5340fd0cef6ad984c80"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "58ae9d94b2957d8e2deefb24fa00e33b4ccffa6ca3edd42f1b42fab49b3b9b5b"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3400e1fce2a3197b8dd7ea2699da8504685ce9b7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "22c28d3012a3612ebcaf6a8becee76c40138af996131742764247129f506f263"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "42f8e65fdbc1b63556f942b0d24ac61998de565b"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "462be12e3be868cdec095cb4a60ad968348cd9634fed6913cdd2c840e79425a2"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5a0773d2b5b9fda0a46f455b2ca6000faa27f4e9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "e443e6b66eb3beef4741b9ca5e626afd5953d2dd66576cf9f1ca32d43ca44ae4"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "43c43e7335f8a1702bf9f89eba274eba05120b18"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "04af7c6e76560c6067fd58664933e152dccbd0da5a3d5c7bdc0a6cd904d0b0e1"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-gnu-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "138d833196479746bd1587d76619198fe1f22fd3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "0fd03387eb17e7475979a7f7d3fe7569ec937e69e88ee3f2b5dbd714df5ed4ca"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-gnu-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "55393e74470ccd8ea444ee27e1fe493c9f7f1151"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "79f77600dcad85c0da54d4782b07e4444314cef79fcdce1511ea4e5070c3be16"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-gnu-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "7b50cde6ffee82a384c5d916be95535ad714a9e1"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "c2397eaff836a4078fe5b38df224563a089b37e6a84ea54f91f38fa800d0263c"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-musl-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "dc239159d89ab892e0f80d2b2865a8e23f59feb0"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "ffa2084f67ca8ee69e61c168f3bb1f2731ded5fa9fc01e6630f9feee2e808709"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-musl-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "e4df11eb5dd85c7c04c60db5791eaf1ec1d39d1e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "8a16087ba8a72b98b6dc4220ee912f2eb5992f4d35f0f55961be3915ee0e2a4c"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-linux-musl-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "1f6c3997c61765646a939df05b1a151a5da5870a"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "8eaf5ffa43667163f51c25978b15f2d2c2bbd033f5e0a566e99dfc7cc1f3c232"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-w64-mingw32-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "633536e6e26f5615458a32d99bb951b6639f429f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "871ebdc044516918094f595de0964c9779ce87e539b6ecf316786aef354f0f33"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-w64-mingw32-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "i686"
+git-tree-sha1 = "ee6f603e67818199435451e45c7016330b17d6b0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "9d37fe30e575af1dfc203829d0935f333be1ae7ea3328a1ceb4020f21b1193ac"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.i686-w64-mingw32-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "powerpc64le"
+git-tree-sha1 = "34845dd3c649a14c953cb2be39fd56ef5bfb193f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "59680ee4d21bb4578e8b8dc8290ab5c0e7dbebe18d25abb8f5ef9cb2ad3edfec"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "powerpc64le"
+git-tree-sha1 = "0b4d2c6604918de31d6f8088aeb698c58cb35737"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "8624d9e2033d8c42d75b0da3258112fd5d63b1040da96a1bd9a93825a000f55e"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "powerpc64le"
+git-tree-sha1 = "ebe878d80658d460c5942371b4cca561866dafbf"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "3cd2cd3e597cf44e12e104d7cdf05d018cf2bb4b06c5692304961bbbb6395c2f"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "b899846b43fdf84bac62b758338118856187bb94"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[QGRAF.download]]
+    sha256 = "3535c83948315126283752954c8f5cc998527c72a8d54017653eeea5ed4f98b0"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "3ebd2ba56143e9e7bbb7e70d9d4cb70f903eea13"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[QGRAF.download]]
+    sha256 = "b71b3ed5942a653d2762016b3b1bc2d1db0b2925eed4ae1739e62cc33e45f795"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "19ba392221439cfc1a0b7e44ac3c8c3cd0bf1fbe"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QGRAF.download]]
+    sha256 = "e708bf4d09516a7263ed457293c3cc6b09f592ce8a56ea5406d3ac5587dfefb3"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "38c766c6ef0308eb068aecfa50e1a898cdf62017"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "2a09e4e45a5185915f9897e4eefaf1feba82e1c9d7f35e8fa06120ed0efff8e4"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "1a617b5903889ffdc4c8ae220e888d1466c94a1f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "7b88c0289fdaf851dc4410ceb306d69b0b8d26c11e652f56c14418a56207fa1b"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "ee83e6c256de654dabae99dcd6be554467b466a6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "9e93de83e06c18a6892ba98d7eea63a0afbd8d9d224e2ad34fcec5057fd5d248"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "0b84ce84e81a0a67842ffae9af27accec3a68080"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "6cf9205c00e64cf0be3fb2e50f2b125db3eda6ab08d372a33959894d52b2ddeb"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-musl-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "e4329a0cb64b217be1732022d8bc8593f2cf558f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "a16a6bd237a1c37657894b1ed613547b5840c1c54e317c176c61c7b90f812bb1"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-musl-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "20a8ad64c8c4fd81337c96ebadd92490cca8a8ae"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QGRAF.download]]
+    sha256 = "1651604ff5c11b558b4cb931433969c0b17f4344778c9b87299dd25ee7e40f25"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-linux-musl-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "15973ca6460b60f007284da76e5b09b2592b6286"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[QGRAF.download]]
+    sha256 = "f9d98bca8718cb2daf71513d0b204bf7ab3f77b5e84e975532e7e638eeb5a1d1"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "d381cc9f57d65d8cbce439e86674d9567d5fe444"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[QGRAF.download]]
+    sha256 = "6cc5a557f818f4112eaefe87457bbb8785070c06371945a014ef1787eb363273"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "007288e1f5c8bd2be4fa695354a75bc683d1d44e"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[QGRAF.download]]
+    sha256 = "eb08440765b5db75027bde2b1da16d749db36935a54e4cbd3123706cbf1d9e62"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "f86d96c4ac1d2a4eedd07b6bde01d00a769bc4e9"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "f01d3235e5232e2ea237b0f4a207e110e6566eb91962a116ea0364a6dc632d14"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "a7de935cb6644d8720704482d8598f920ff8f2ab"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "8c97dd719d1c0f2d144032af1c24f0030fccddbb37aa8a3e2f4cdb17b62b949d"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[QGRAF]]
+arch = "x86_64"
+git-tree-sha1 = "83bfc9a5770cb939a86d7ed7698146f1e954af27"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QGRAF.download]]
+    sha256 = "426755b25e20d313d9798317a7ad8121dfcee40e73963a662295aca9651c4f9a"
+    url = "https://github.com/Fenyutanchan/QGRAF_jll.jl/releases/download/QGRAF-v3.6.5+0/QGRAF.v3.6.5.x86_64-w64-mingw32-libgfortran5.tar.gz"
